@@ -1,11 +1,10 @@
-# hasebegentarou.github.io
+# {hasebegentarou}.github.io
 
-https://hasebegentarou.github.io
+https://{hasebegentarou}.github.io
 
-## markdwn-samples
+## markdown-samples
 
 ### list
-
 - aaa
 - bbb
 - ccc
