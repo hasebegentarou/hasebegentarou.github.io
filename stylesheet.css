@@ -23,7 +23,7 @@ header p {
 .top {
     padding-top: 240px;
     height: 320px;
-    background: liner-gradient( #e66465, #9198e5);
+    background: liner-gradient(#e66465, #9198e5);
     color: white;
     text-align: center;
 }
@@ -38,7 +38,7 @@ header p {
     text-align: center;
 }
 
-footer{
+footer {
     padding-top: 30px;
     padding-bottom: 20px;
 }
