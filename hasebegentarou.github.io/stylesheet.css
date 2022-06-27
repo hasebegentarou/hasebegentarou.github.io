@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
+  
+  header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+  }
+  
+  header p {
+    color: white;
+  }
+  
+  .container {
+    width: 50%;
+  }
+  .container p {
+    font-family: 'Cherry Swash', cursive;
+  }
+  .btn { 
+    float: left;
+    padding: 5px 10px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-left: auto;
+    margin: 10px;
+  }
+  .container h1 {
+    width: 30%;
+    opacity: 0.7;
+  }
+  .btn:hover {
+    opacity: 1.0;
+  }
+  .instagram {
+    background: -webkit-linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
+    background: linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
+  }
+  
+  .twitter {
+    background-color:#55acee;
+  }
+  .facebook {
+    background-color: #3b5998;
+  }
+  
+
+  .top {
+    padding-top: 240px;
+    height: 150px;
+    background-image: url(https://prog-8.com/images/html/advanced/top.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+  }
+  
+  .top h1 {
+    opacity: 0.7;
+    font-size: 32px;
+  }
+  
+  .message {
+    height: 480px;
+    text-align: center;
+  }
+  
+  footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  
+  footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+    text-align: center;
+  }
