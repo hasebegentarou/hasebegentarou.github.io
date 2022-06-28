@@ -32,11 +32,12 @@ body {
     width: 30%;
     opacity: 0.7;
   }
+  
   .btn:hover {
     opacity: 1.0;
     transition: .4s;
   }
-  
+
   .instagram {
     border-color: #CF2E92;
     color: #CF2E92;
