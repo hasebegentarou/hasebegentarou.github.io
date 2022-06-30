@@ -1,6 +1,6 @@
 # {hasebegentarou}.github.io
 
-https://{hasebegentarou}.github.io
+https://hasebegentarougithub.io
 
 ## markdown-samples
 
