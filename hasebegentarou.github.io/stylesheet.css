@@ -15,7 +15,7 @@ body {
     font-family: 'Cherry Swash', cursive;
   }
   .btn { 
-    float: left;
+  
     padding: 5px 10px;
     display: inline-block;
     opacity: 0.8;
